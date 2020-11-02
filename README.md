@@ -1,2 +1,2 @@
 # newGitTest
-asdasd
+Cambios en git mediante terminal
